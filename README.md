@@ -40,7 +40,7 @@ Updated daily by a GitHub Action in this repository.
 | [wonmortech/shaffof](https://github.com/wonmortech/shaffof) | [v0.1.0](https://github.com/wonmortech/shaffof/releases/tag/v0.1.0) | 2026-11-13 |
 | [dtwinuz/teletwin-web](https://github.com/dtwinuz/teletwin-web) | [v2.13.1](https://github.com/dtwinuz/teletwin-web/releases/tag/v2.13.1) | 2026-11-02 |
 
-Public merged pull requests: **8** · Pull requests reviewed: **17**
+Public merged pull requests: **16** · Pull requests reviewed: **25**
 <!-- live:end -->
 
 ## Certifications
