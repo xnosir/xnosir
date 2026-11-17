@@ -34,13 +34,13 @@ Updated daily by a GitHub Action in this repository.
 <!-- live:start -->
 | Repository | Latest release | Published |
 |---|---|---|
-| [dtwinuz/bitg](https://github.com/dtwinuz/bitg) | [v0.4.0](https://github.com/dtwinuz/bitg/releases/tag/v0.4.0) | 2026-11-13 |
+| [dtwinuz/bitg](https://github.com/dtwinuz/bitg) | [v0.5.0](https://github.com/dtwinuz/bitg/releases/tag/v0.5.0) | 2026-11-16 |
 | [wonmortech/muhr](https://github.com/wonmortech/muhr) | [v0.1.0](https://github.com/wonmortech/muhr/releases/tag/v0.1.0) | 2026-11-13 |
 | [wonmortech/sanad](https://github.com/wonmortech/sanad) | [v0.1.0](https://github.com/wonmortech/sanad/releases/tag/v0.1.0) | 2026-11-13 |
 | [wonmortech/shaffof](https://github.com/wonmortech/shaffof) | [v0.1.0](https://github.com/wonmortech/shaffof/releases/tag/v0.1.0) | 2026-11-13 |
 | [dtwinuz/teletwin-web](https://github.com/dtwinuz/teletwin-web) | [v2.13.1](https://github.com/dtwinuz/teletwin-web/releases/tag/v2.13.1) | 2026-11-02 |
 
-Public merged pull requests: **16** · Pull requests reviewed: **26**
+Public merged pull requests: **23** · Pull requests reviewed: **30**
 <!-- live:end -->
 
 ## Certifications
